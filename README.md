@@ -33,6 +33,10 @@ admin | 1234
 
 ## Comentarios
 
+### domingo, 17 de enero de 2021 14:14
+
+He creado el manual de conda para crear entornos virtuales, tambien leí sobre el requirements.txt que se debe crear, iniciar el projecto e interiorizando mas como se crea el projecto, creo que deberia tener la documentacion mas organizada, por que por un lado tengo el notion y otro el repositorio mmmm. Pensando pensando.... Haber como será mejor....
+
 ### lunes, 11 de enero de 2021 23:57
 
 Creando repo...

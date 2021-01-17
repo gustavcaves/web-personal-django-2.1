@@ -1,0 +1,14 @@
+astroid @ file:///C:/ci/astroid_1592495992870/work
+certifi==2020.12.5
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+Django==2.1
+isort @ file:///tmp/build/80754af9/isort_1602603989581/work
+lazy-object-proxy @ file:///C:/b/work
+mccabe==0.6.1
+pylint @ file:///C:/ci/pylint_1598624066230/work
+pytz==2020.5
+six @ file:///C:/ci/six_1605187303045/work
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+typed-ast @ file:///C:/ci/typed-ast_1610466539988/work
+wincertstore==0.2
+wrapt==1.11.2

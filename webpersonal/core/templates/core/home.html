@@ -1,22 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Web Personal</title>
-</head>
-<body>
-<h1>Mi Web Personal</h1>
 
-<ul>
-    <li><a href="/">Portada</a></li>
-    <li><a href="/porfolio/">Porfolio</a></li>
-    <li><a href="/contact/">Contacto</a></li>
-    <li><a href="/about/">Acerca de</a></li>
-</ul>
+{% extends 'core/base.html' %}
 
-<h2>Bienvenidos</h2>
+{% block title%}Portada{% endblock %}
 
-<p>Esto es la portada.</p>
-</body>
-</html>
+{% block background %}{% load static %}{% static 'core/img/home-bg.jpg' %}{% endblock %}
+
+{% block headers %}
+<h1>Juan Pérez</h1>
+<span class="subheading">Ingeniero Industrial</span>
+{% endblock %}
+
+
+{% block content %}
+{% endblock %}

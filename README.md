@@ -33,6 +33,10 @@ admin | 1234
 
 ## Comentarios
 
+### lunes, 18 de enero de 2021 21:58
+
+He unido el backend con el frontend, y otras cosas más. Avanzando ;)
+
 ### domingo, 17 de enero de 2021 20:28
 
 Avanzando hacia los templates, primero creo el html en el core templates y luego la vista y agregando la url.

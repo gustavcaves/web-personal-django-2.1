@@ -33,6 +33,10 @@ admin | 1234
 
 ## Comentarios
 
+### martes, 19 de enero de 2021 2021
+
+Salio un problema que he resuelto con: [python - Django - No such table: main.auth_user__old - Stack Overflow](https://stackoverflow.com/questions/53637182/django-no-such-table-main-auth-user-old) Actualizo el Django a 2.1.5 para que funcione. Cambios en el admin y demasum things.
+
 ### lunes, 18 de enero de 2021 21:58
 
 He unido el backend con el frontend, y otras cosas más. Avanzando ;)

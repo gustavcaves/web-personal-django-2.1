@@ -1,4 +1,4 @@
-# Web Portafolio Básica con Django 2.1 - En Proceso
+# Web Portafolio Básica con Django 2.1.5
 
 ## En este repositorio estaré llevando las pruebas de la documentacion de Hector Profe
 
@@ -33,7 +33,11 @@ admin | 1234
 
 ## Comentarios
 
-### martes, 19 de enero de 2021 2021
+### miércoles, 20 de enero de 2021 19:09
+
+He finalizado el proyecto.
+
+### martes, 19 de enero de 2021 19:09
 
 Salio un problema que he resuelto con: [python - Django - No such table: main.auth_user__old - Stack Overflow](https://stackoverflow.com/questions/53637182/django-no-such-table-main-auth-user-old) Actualizo el Django a 2.1.5 para que funcione. Cambios en el admin y demasum things.
 
